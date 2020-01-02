@@ -2,8 +2,6 @@
 
 This code can detect your eyes and alert when the user is drowsy.
 
-### Sourcerer
-[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Drowsiness_Detection/images/0)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Drowsiness_Detection/links/0)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Drowsiness_Detection/images/1)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Drowsiness_Detection/links/1)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Drowsiness_Detection/images/2)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Drowsiness_Detection/links/2)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Drowsiness_Detection/images/3)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Drowsiness_Detection/links/3)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Drowsiness_Detection/images/4)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Drowsiness_Detection/links/4)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Drowsiness_Detection/images/5)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Drowsiness_Detection/links/5)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Drowsiness_Detection/images/6)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Drowsiness_Detection/links/6)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Drowsiness_Detection/images/7)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Drowsiness_Detection/links/7)
 
 ## Applications
 This can be used by riders who tend to drive for a longer period of time that may lead to accidents
