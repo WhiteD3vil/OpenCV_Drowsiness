@@ -1,4 +1,5 @@
-# Drowsiness Detection OpenCV [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Drowsiness_Detection/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+# Drowsiness Detection OpenCV [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)]
+
 This code can detect your eyes and alert when the user is drowsy.
 
 ### Sourcerer
